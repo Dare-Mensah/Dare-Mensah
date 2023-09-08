@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dare-Mensah
 - 👀 I’m interested in Conputer Science 
-- 🌱 I’m currently learningComputer Science BSC at Queen Mary University
+- 🌱 I’m currently studying Computer Science BSC at Queen Mary University
 - 📫 How to reach me: Gmail: darepaul.mensah@gmail.com
 
 <!---
